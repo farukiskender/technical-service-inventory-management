@@ -1,0 +1,9 @@
+PyQt6>=6.4.0
+SQLAlchemy>=2.0.0
+bcrypt>=4.0.0
+
+# Opsiyonel: PostgreSQL bağlantısı için
+# psycopg2-binary>=2.9.0
+
+# Opsiyonel: Microsoft SQL Server bağlantısı için
+# pyodbc>=4.0.0
