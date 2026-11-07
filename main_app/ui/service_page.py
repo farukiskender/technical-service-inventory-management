@@ -460,7 +460,7 @@ class ServiceDetailDialog(QDialog):
         clayout.addLayout(info_row)
 
         # B) Yapılan İşlem & Durum Yönetimi Kutusu
-        grp_work = QGroupBox("Yapılan İşlem & Durum Güncelleme")
+        grp_work = QGroupBox("Yapılan İşlem && Durum Güncelleme")
         grp_work.setFont(QFont("Segoe UI", 10, QFont.Weight.Bold))
         gwl = QVBoxLayout(grp_work)
         gwl.setSpacing(10)
